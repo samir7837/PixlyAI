@@ -113,11 +113,4 @@ Please open an issue or a PR with a short description of your change.
 📄 License
 MIT — feel free to reuse and modify the code. Include attribution if you republish.
 
----
 
-If you'd like, I can:
-- Add a polished screenshot and an animated GIF of the enhance → create workflow,
-- Add a one-click "Auto-enhance & Create" button,
-- Or generate a tiny GitHub Actions workflow that runs a linter on PRs.
-
-Save this README.md into the project root to replace the existing README.
